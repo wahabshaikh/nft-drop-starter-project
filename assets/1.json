@@ -1,0 +1,23 @@
+{
+  "name": "Varun Chakaravyuh",
+  "symbol": "",
+  "image": "1.png",
+  "collection": {
+    "name": "#GalaxyOfKnights Power Cards",
+    "family": "Kolkata Knight Riders"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5sJoRRpqyVZ9kNnzB4NkgeHDczhsH4RSyh5NSYYqjem1",
+        "share": 100
+      }
+    ]
+  }
+}
